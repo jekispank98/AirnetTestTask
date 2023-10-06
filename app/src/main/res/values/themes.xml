@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AirnetTestTask" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="fontFamily">@font/sf_pro_display_medium</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.AirnetTestTask" parent="Base.Theme.AirnetTestTask" />
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/sky_blue</item>
+    </style>
+</resources>

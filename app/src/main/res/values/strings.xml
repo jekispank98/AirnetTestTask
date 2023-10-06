@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AirnetTestTask</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="APPLICATION_FOR_CONNECTION">Заявка на подключение</string>
+    <string name="CHOOSE_A_STREET">Выберите улицу</string>
+    <string name="CHOOSE_A_HOUSE">Выберите дом</string>
+    <string name="HOUSE">Дом</string>
+    <string name="BUILDING">Корпус</string>
+    <string name="APARTMENT">Квартира</string>
+    <string name="SEND">Отправить</string>
+</resources>
